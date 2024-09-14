@@ -1,0 +1,19 @@
+div.grid-bg {
+    background-color: #eeeee4;
+    padding: 5px;
+  }
+
+  div#main-content {
+    width: 85%;
+    min-width: 400px;
+    margin: 0 auto;
+  }
+
+  form.reply-form, form.register-form {
+      width: 500px;
+      margin: 0 auto;
+  }
+
+  button.btn-bg {
+      background-color: black;
+  }
